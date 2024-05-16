@@ -172,6 +172,7 @@ section {
   height: 20px;
   border: none;
   padding: 4px 0;
+  cursor: pointer;
 }
 
 
@@ -185,6 +186,7 @@ section {
 #navigation .nav-item:last-child:hover {
   border: none;
   padding: 4px 0;
+  cursor: pointer;
 }
 
 #heros-section {
@@ -247,6 +249,7 @@ shown in drop down style menu */
 
 #right-nav.toggle-menu .nav-item:last-child {
   border-bottom: none;
+  cursor: pointer;
 }
 
 .project::after {
